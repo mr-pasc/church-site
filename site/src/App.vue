@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <h1>ADONAI</h1>
+    <p><small>church</small></p>
     <router-view/>
   </div>
 </template>
